@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             Connect3Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "傻逼",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
